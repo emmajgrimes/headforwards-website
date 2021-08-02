@@ -8,6 +8,9 @@ module.exports = {
         theme_color: '#FFB800',
         display: 'standalone',
         icon: 'static/images/brand/headforwards-emblem.black.svg',
+        icon_options: {
+          purpose: `any maskable`,
+        }
         crossOrigin: `use-credentials`,
     },
 };
