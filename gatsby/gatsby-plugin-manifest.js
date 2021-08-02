@@ -10,7 +10,7 @@ module.exports = {
         icon: 'static/images/brand/headforwards-emblem.black.svg',
         icon_options: {
           purpose: `any maskable`,
-        }
+        },
         crossOrigin: `use-credentials`,
     },
 };
