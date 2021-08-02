@@ -123,7 +123,7 @@ exports.sourceNodes = ({ actions, createNodeId, createContentDigest }) => {
             created: moment(created, 'YYYY-MM-DD HH:mm:ss Z').toDate(),
         };
 
-        console.log({ title, full, subtitle, salary });
+//         console.log({ title, full, subtitle, salary });
 
         createNode(nodeData);
     }
