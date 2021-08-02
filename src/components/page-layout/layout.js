@@ -28,19 +28,21 @@ const UnstatedHelmet = withUnstated(
 
         return (
             <Helmet bodyAttributes={bodyAttributes}>
-                {/* Google */}
+                {/* Google
                 <link rel="preconnect" href="https://www.google.com" />
-                {/* Facebook */}
+                 */}
+                {/* Facebook
                 <link rel="preconnect" href="https://connect.facebook.net" />
                 <link rel="preconnect" href="https://www.facebook.com" />
-                {/* HotJar */}
+                 */}
+                {/* HotJar
                 <link rel="preconnect" href="https://in.hotjar.com" />
                 <link rel="preconnect" href="https://script.hotjar.com" />
                 <link rel="preconnect" href="https://static.hotjar.com" />
                 <link rel="preconnect" href="https://stats.g.doubleclick.net" />
                 <link rel="preconnect" href="https://vars.hotjar.com" />
                 <link rel="preconnect" href="https://vc.hotjar.io" />
-
+                 */}
                 {/* <link rel="preconnect" href="https://d.adroll.mgr.consensu.org" /> */}
                 {/* <link rel="preconnect" href="https://d.adroll.com" /> */}
                 {/* <link rel="preconnect" href="https://googleads.g.doubleclick.net" /> */}
