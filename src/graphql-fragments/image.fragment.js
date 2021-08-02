@@ -11,7 +11,7 @@ export const ImageFragment = graphql`
                     maxWidth: 767
                     maxHeight: 767
                     cropFocus: CENTER
-                    quality: 70
+                    quality: 65
                     srcSetBreakpoints: [320, 480, 768, 1024, 1280, 1440]
                 ) {
                     ...GatsbyImageSharpFluid_withWebp
@@ -24,7 +24,7 @@ export const ImageFragment = graphql`
                     maxWidth: 1440
                     maxHeight: 900
                     cropFocus: CENTER
-                    quality: 80
+                    quality: 75
                     srcSetBreakpoints: [320, 480, 768, 1024, 1280, 1440]
                 ) {
                     ...GatsbyImageSharpFluid_withWebp
@@ -41,7 +41,7 @@ export const ImageFragment = graphql`
                     maxWidth: 726
                     maxHeight: 276
                     cropFocus: CENTER
-                    quality: 70
+                    quality: 65
                     srcSetBreakpoints: [320, 480, 768, 1024, 1280, 1440]
                 ) {
                     ...GatsbyImageSharpFluid_withWebp
@@ -54,7 +54,7 @@ export const ImageFragment = graphql`
                     maxWidth: 468
                     maxHeight: 468
                     cropFocus: CENTER
-                    quality: 75
+                    quality: 70
                     srcSetBreakpoints: [320, 480, 768, 1024, 1280, 1440]
                 ) {
                     ...GatsbyImageSharpFluid_withWebp
@@ -67,7 +67,7 @@ export const ImageFragment = graphql`
                     maxWidth: 362
                     maxHeight: 362
                     cropFocus: CENTER
-                    quality: 80
+                    quality: 75
                     srcSetBreakpoints: [320, 480, 768, 1024, 1280, 1440]
                 ) {
                     ...GatsbyImageSharpFluid_withWebp
@@ -94,7 +94,7 @@ export const ImageFragment = graphql`
                 maxWidth: 720
                 maxHeight: 450
                 cropFocus: CENTER
-                quality: 85
+                quality: 80
                 srcSetBreakpoints: [320, 480, 768, 1024, 1280, 1440]
             ) {
                 ...GatsbyImageSharpFluid_withWebp
@@ -110,7 +110,7 @@ export const ImageFragment = graphql`
                     maxWidth: 54
                     maxHeight: 54
                     cropFocus: CENTER
-                    quality: 70
+                    quality: 65
                     srcSetBreakpoints: [320, 480, 768, 1024, 1280, 1440]
                 ) {
                     ...GatsbyImageSharpFluid_withWebp
@@ -123,7 +123,7 @@ export const ImageFragment = graphql`
                     maxWidth: 67
                     maxHeight: 67
                     cropFocus: CENTER
-                    quality: 75
+                    quality: 70
                     srcSetBreakpoints: [320, 480, 768, 1024, 1280, 1440]
                 ) {
                     ...GatsbyImageSharpFluid_withWebp
@@ -136,7 +136,7 @@ export const ImageFragment = graphql`
                     maxWidth: 84
                     maxHeight: 84
                     cropFocus: CENTER
-                    quality: 80
+                    quality: 75
                     srcSetBreakpoints: [320, 480, 768, 1024, 1280, 1440]
                 ) {
                     ...GatsbyImageSharpFluid_withWebp
@@ -152,7 +152,7 @@ export const ImageFragment = graphql`
                 maxWidth: 100
                 maxHeight: 100
                 cropFocus: CENTER
-                quality: 85
+                quality: 80
                 srcSetBreakpoints: [320, 480, 768, 1024, 1280, 1440]
             ) {
                 ...GatsbyImageSharpFluid_withWebp
@@ -167,7 +167,7 @@ export const ImageFragment = graphql`
                 maxWidth: 732
                 maxHeight: 366
                 cropFocus: CENTER
-                quality: 85
+                quality: 80
                 srcSetBreakpoints: [320, 480, 768, 1024, 1280, 1440]
             ) {
                 ...GatsbyImageSharpFluid_withWebp
@@ -182,7 +182,7 @@ export const ImageFragment = graphql`
                 maxWidth: 585
                 maxHeight: 585
                 cropFocus: CENTER
-                quality: 85
+                quality: 80
                 srcSetBreakpoints: [320, 480, 768, 1024, 1280, 1440]
             ) {
                 ...GatsbyImageSharpFluid_withWebp
@@ -197,7 +197,7 @@ export const ImageFragment = graphql`
                 maxWidth: 585
                 maxHeight: 585
                 cropFocus: CENTER
-                quality: 85
+                quality: 80
                 srcSetBreakpoints: [320, 480, 768, 1024, 1280, 1440]
             ) {
                 ...GatsbyImageSharpFluid_withWebp_noBase64
