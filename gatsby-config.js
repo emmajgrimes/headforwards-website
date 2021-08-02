@@ -38,7 +38,7 @@ const plugins = [
     { ...gatsbyPluginForceTrailingSlashes },
     { ...gatsbyPluginSitemap },
     { ...gatsbyPluginRobotsTxt },
-    { ...gatsbyPluginGoogleTagmanger },
+//     { ...gatsbyPluginGoogleTagmanger },
 
     { ...gatsbyPluginManifest },
     { ...gatsbyPluginOffline },
