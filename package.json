@@ -32,7 +32,7 @@
     "gatsby-remark-relative-images": "^0.3.0",
     "git-repo-info": "^2.1.1",
     "html-react-parser": "^0.10.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "netlify-cms-app": "^2.12.14",
     "object-hash": "^2.0.3",
     "pretty": "^2.0.0",
